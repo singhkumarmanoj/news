@@ -19,7 +19,7 @@ export default function Home(){
           * Prefrontal Cortex: A large-scale study by researchers at Portland State University found that about 22 percent of people who died by suicide were legally intoxicated at the time of their death. Brain scans show that alcohol lowers function in the prefrontal cortex, a brain region involved in impulse control, judgment, and decision-making.
           * Anterior Cingulate Gyrus: People with overactivity in this area of the brain tend to get stuck on negative thoughts, which is one of the traits we see in people with suicidal thoughts and behavior
         </p>
-        <img className="ml-4 pb-2" width={120} height={150} src="../down.jpg" alt="news" />
+        <img className="ml-4 pb-2" width={200} height={100} src="../down.jpg" alt="news" />
       </div>
 
       <hr className="text-blue-300 mt-1 mb-1 " />
