@@ -12,7 +12,7 @@ export default function Home(){
         {/* Components */}
         <News 
           date="03-09-2026"
-          heading="Healthy Brain Scan /VS/ Suicidal Brain Scan"
+          heading="Healthy Brain Scan /V/S/ Suicidal Brain Scan"
           newspart= {<> September is Suicide Prevention Month.  After being a Psychiatrist for over 40 years, it's clear to me that suicidal thoughts and brains work differently. 
             Amen Clinics has scanned hundreds of patients who have attempted suicide and many more who have thought about taking their own life. The SPECT scans of these patients revealed abnormalities in the brain, especially in these areas: 
             * Temporal Lobes: Brain SPECT imaging shows that people with suicidal thoughts and suicide attempts often have abnormalities in the left temporal lobe. In an Amen Clinics study, we saw left temporal lobe problems in 62 percent of our patients who had serious suicidal thoughts or behaviors. 
