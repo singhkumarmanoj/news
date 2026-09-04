@@ -20,7 +20,7 @@ export default function News({heading,date,newspart, src, alt, width, height,cla
       <div className="bg-gray-700">
         <h6 className="flex justify-end mr-5">Date: {date}</h6> {/*Date of news */}
 
-        <h1 className="text-xl text-blue-400 mb-1 pl-2 font-serif">
+        <h1 className="text-xl text-blue-400 mb-1 pl-2 font-serif ">
             {heading}
           
         </h1>  {/*This is Heading of news */}
